@@ -1,0 +1,23 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "20231_fatec_ipi_pdm_noite_chatgpt_sentimentos",
+    "dateExported": "2023-05-21T22:51:51.528Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "0571a185-0505-43da-a573-f3cc992e6fc3",
+            "colId": "e6b073bd-743e-408f-91ed-f7b777b19f3f",
+            "containerId": "",
+            "name": "Hellodo Back End",
+            "url": "localhost:4000/hello",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-05-19T23:13:27.087Z",
+            "modified": "2023-05-19T23:13:51.799Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
