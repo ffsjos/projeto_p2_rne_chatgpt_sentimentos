@@ -27,7 +27,7 @@ app.post('/sentimentos', (req, res) => {
     })
     .then(chatGPTResponse => {
         console.log(chatGPTResponse.data.choices[0].text)
-        res.end()
+        res.json({sentimento: chatGPTResponse.data.choices[0].text})
     })
 })
 
